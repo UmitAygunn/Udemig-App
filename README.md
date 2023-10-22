@@ -4,6 +4,8 @@ This project is an educational website created using HTML and CSS. It features a
 
 # Demo
 
+![Udemig App](https://github.com/UmitAygunn/Udemig-App/assets/140657845/e1882af2-0e61-4037-9efd-72ca905fafa9)
+
 Live Demo - Explore the live demo of the educational website to access categorized lessons and experience the user-friendly interface.
 1) https://65338e6342df067ebe157805--helpful-lily-ceeaa4.netlify.app/
 
